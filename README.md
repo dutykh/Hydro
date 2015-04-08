@@ -24,7 +24,7 @@ The contributions of these people are greatly acknowledged:
 
 * Prof. [Didier Clamond](http://math.unice.fr/~didierc/) ([LJAD](http://math.unice.fr/) - [Université de Nice Sophia Antipolis](http://unice.fr/), France)
 * Dr. [Dimitrios Mitsotakis](https://sites.google.com/site/dmitsot/) ([School of Mathematics, Statistics and Operations Research](http://www.victoria.ac.nz/smsor/) - [Victoria University of Wellington](http://www.victoria.ac.nz/), New Zealand)
-* Dr. [Ashkan Rafiee](https://au.linkedin.com/pub/ashkan-rafiee/80/205/403) ([Carnegie Wave Energy](http://www.carnegiewave.com/) - Australia)
+* Dr. [Ashkan Rafiee](https://au.linkedin.com/pub/ashkan-rafiee/80/205/403) ([Carnegie Wave Energy](http://www.carnegiewave.com/), Australia)
 
 ---
 
