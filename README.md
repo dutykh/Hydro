@@ -1,4 +1,5 @@
 ![Hydrodynamics of pumps](pics/Hydrodynamics.jpg)
+
 *Copyright © Randal Ferman*
 
 # Mathematical Hydrodynamics #
@@ -11,7 +12,7 @@ Moreover, if you have any questions, suggestions or corrections to this document
 
 ### Author ###
 
-* Dr. [Denys Dutykh](http://www.denys-dutykh.com/) ([CNRS](http://www.cnrs.fr/) - [INSMI](http://www.cnrs.fr/insmi/) - [LAMA UMR #5127](http://www.lama.univ-savoie.fr/index.php) - [Université Savoie Mont Blanc](http://www.univ-savoie.fr/))
+* Dr. [Denys Dutykh](http://www.denys-dutykh.com/) ([CNRS](http://www.cnrs.fr/) - [INSMI](http://www.cnrs.fr/insmi/) - [LAMA UMR #5127](http://www.lama.univ-savoie.fr/index.php) - [Université Savoie Mont Blanc](http://www.univ-smb.fr/))
 * Home page: [http://www.denys-dutykh.com/](http://www.denys-dutykh.com/)
 * E-mail: " Denys . Dutykh at univ-savoie . fr "
 
