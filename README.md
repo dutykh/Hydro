@@ -1,6 +1,6 @@
-# Book project #
+# Mathematical Hydrodynamics #
 
-The present repository is a freely of lecture notes on the Hydrodynamics with a particular emphasis on variational methods. Basically, this material has been gathered together to serve as students's support for various lectures that the Author was invited to deliver. The manuscript is currently constantly evolving. So, please, check this web page from time to time for the updated versions.
+The present repository is a freely available copy of lecture notes on the Mathematical Hydrodynamics with a particular emphasis on variational methods. Basically, this material has been gathered together to serve as students's support for various lectures that the Author has been invited to deliver. The manuscript is currently *constantly evolving*. So, please, check this web page from time to time for the updated versions.
 
 Moreover, if you have any questions, suggestions or corrections to this document, please do not hesitate to contact the Author (preferably by e-mail).
 
