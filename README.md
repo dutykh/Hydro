@@ -37,4 +37,4 @@ V0.0.2: 2015/04/08
 
 V0.0.1: 2014/11/21
 
-* The very first preliminary structure of the book.
+* The very first preliminary structure of the manuscript.
