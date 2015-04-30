@@ -30,6 +30,13 @@ The contributions of these people are greatly acknowledged:
 
 ### Changelog ###
 
+V0.0.3: 2015/05/01
+
+* General Lagrangian formulation for Euler and Navier-Stokes equations
+* Dimensional analysis, pi-theorem
+* SPH method
+* Various small improvements
+
 V0.0.2: 2015/04/08
 
 * Derivation of basic Fluid Mechanics equations in the Eulerian description
