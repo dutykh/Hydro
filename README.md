@@ -2,7 +2,7 @@
 
 *Copyright © Randal Ferman*
 
-# Mathematical Hydrodynamics #
+# Introduction into Hydrodynamics #
 
 The present repository is a freely available copy of lecture notes on the Mathematical Hydrodynamics with a particular emphasis on variational methods. Basically, this material has been gathered together to serve as students's support for various lectures that the Author has been invited to deliver. The manuscript is currently *constantly evolving*. So, please, check this web page from time to time for the updated versions.
 
@@ -29,6 +29,10 @@ The contributions of these people are greatly acknowledged:
 ---
 
 ### Changelog ###
+
+V0.0.3: 2015/06/01
+
+* Paper layout changed to european format a5
 
 V0.0.3: 2015/05/01
 
