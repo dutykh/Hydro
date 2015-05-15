@@ -32,6 +32,8 @@ The contributions of these people are greatly acknowledged:
 
 V0.0.3: 2015/06/01
 
+* Portraits of Lagrange, Hamilton & Zakharov were added
+* CERN Mug is added to illustrate the use of Lagrangians in Theor. Physics
 * Paper layout changed to european format a5
 
 V0.0.3: 2015/05/01
