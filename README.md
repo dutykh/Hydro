@@ -22,13 +22,30 @@ Moreover, if you have any questions, suggestions or corrections to this document
 
 The contributions of these people are greatly acknowledged:
 
-* Prof. [Didier Clamond](http://math.unice.fr/~didierc/) ([LJAD](http://math.unice.fr/) - [Université de Nice Sophia Antipolis](http://unice.fr/), France)
-* Dr. [Dimitrios Mitsotakis](https://sites.google.com/site/dmitsot/) ([School of Mathematics, Statistics and Operations Research](http://www.victoria.ac.nz/smsor/) - [Victoria University of Wellington](http://www.victoria.ac.nz/), New Zealand)
-* Dr. [Ashkan Rafiee](https://au.linkedin.com/pub/ashkan-rafiee/80/205/403) ([Carnegie Wave Energy](http://www.carnegiewave.com/), Australia)
+* Prof. [Didier Clamond](http://math.unice.fr/~didierc/) ([LJAD](http://math.unice.fr/) - [Université de Nice Sophia Antipolis](http://unice.fr/), Nice, France)
+* Dr. [Dimitrios Mitsotakis](https://sites.google.com/site/dmitsot/) ([School of Mathematics, Statistics and Operations Research](http://www.victoria.ac.nz/smsor/) - [Victoria University of Wellington](http://www.victoria.ac.nz/), Wellington, New Zealand)
+* Dr. [Ashkan Rafiee](https://au.linkedin.com/pub/ashkan-rafiee/80/205/403) ([Carnegie Wave Energy](http://www.carnegiewave.com/), Perth, Australia)
 
 ---
 
 ### Changelog ###
+
+V0.0.5: 2015/09/01
+
+* An extra section on Maxwell equations is added
+* A section on Poincare lemma is added to Appendix (relation between exact and closed differential forms)
+* A quotation of Yukawa and another one of Dirac are added
+* Stokes equations are described
+* Bernoulli's theorem is added
+* Section on isentropic flows is rewritten and the circulation theorem is added
+
+V0.0.4: 2015/08/01
+
+* A new Chapter on Vorticity will be added in the future (already created in TOC)
+* Mini tables of contents are added at the beginning of each Chapter
+* The Chapter on Fluid Dynamics equation derivation is further cleaned
+* Feynman's blackboard picture is added
+* List of figures is added (and List of Tables, without tables present in the text for the moment)
 
 V0.0.3: 2015/06/01
 
